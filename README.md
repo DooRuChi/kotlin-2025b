@@ -1,1 +1,11 @@
-This remote repository manages code and materials related to the Mobile Programing course for the Fall 2025 semester.
+# Week02 Kotlin Basics
+
+## Learning Object
+- Understand basic Kotlin syntax
+- Declare variables and funcions
+
+## Practice Files
+- `MainActivity.kt` : variable, function
+
+## How to Run
+- Click the Run button in Android Studio. (Shift+F10)
